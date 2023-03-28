@@ -14,7 +14,7 @@
 git clone https://github.com/jsnjfz/WebStack-Guns.git
 ```
 
-导入IDE，建议用IDEA打开项目目录，待maven下载完jar包
+导入IDE 建议用IDEA打开项目目录，待maven下载完jar包
 
 
 编辑配置：
